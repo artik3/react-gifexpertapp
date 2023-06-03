@@ -1,0 +1,53 @@
+html,body
+{
+    background-color: black;
+    color: white;
+    font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif  ;
+    font-size: 1.0rem;
+    padding: 40px;
+}
+button
+{
+    font-size: 1.3rem;
+    margin-right: 10px;
+    padding: 10px;
+
+}
+
+input
+{
+width: 100%;
+font-family:  'Courier New', Courier, monospace ;
+color: blue;
+font-size: 0.9rem;
+
+}
+.card{
+align-content: center;
+border: 1px solid gray;
+border-radius: 6px;
+margin-bottom: 10px;
+margin-right: 10px;
+overflow: hidden;
+
+}
+.card-grid{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+
+
+}
+
+.card p{
+padding:5px;
+text-align: center;
+text-decoration: aqua;
+
+}
+
+.card img{
+max-height: 120px;
+
+}
+
