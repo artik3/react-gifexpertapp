@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/static/css/main.860a347f.css",
+    "main.js": "/static/js/main.dadeca72.js",
+    "index.html": "/index.html",
+    "main.860a347f.css.map": "/static/css/main.860a347f.css.map",
+    "main.dadeca72.js.map": "/static/js/main.dadeca72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.860a347f.css",
+    "static/js/main.dadeca72.js"
+  ]
+}
